@@ -1,0 +1,7 @@
+/home/cisco/githubtesty/gorgon_kolokwium/Zad6/build/CMakeFiles/install/strip.dir
+/home/cisco/githubtesty/gorgon_kolokwium/Zad6/build/CMakeFiles/edit_cache.dir
+/home/cisco/githubtesty/gorgon_kolokwium/Zad6/build/CMakeFiles/myProgram.dir
+/home/cisco/githubtesty/gorgon_kolokwium/Zad6/build/CMakeFiles/rebuild_cache.dir
+/home/cisco/githubtesty/gorgon_kolokwium/Zad6/build/CMakeFiles/list_install_components.dir
+/home/cisco/githubtesty/gorgon_kolokwium/Zad6/build/CMakeFiles/install/local.dir
+/home/cisco/githubtesty/gorgon_kolokwium/Zad6/build/CMakeFiles/install.dir
